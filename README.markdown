@@ -1,5 +1,9 @@
 # CoreMLHelpers
 
+```
+pod 'CoreMLHelpers', :git => "https://github.com/liujunliuhong/CoreMLHelpers.git"
+```
+
 This is a collection of types and functions that make it a little easier to work with Core ML in Swift.
 
 Some of the things CoreMLHelpers has to offer:
